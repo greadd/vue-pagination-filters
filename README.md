@@ -1,6 +1,6 @@
 # Vue App with pagination, filtering
 
-##DEMO:
+## DEMO:
 https://naughty-lumiere-8b3792.netlify.app/
 
 ## Project setup
