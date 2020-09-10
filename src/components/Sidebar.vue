@@ -129,12 +129,10 @@ export default {
         this.breeds,
         this.genders
       ])
-      this.drawer = false
     },
     resetFilters() {
       this.genders = this.colors = this.breeds = []
       this.$store.dispatch('resetFilters')
-      this.drawer = false
     }
   }
 }
